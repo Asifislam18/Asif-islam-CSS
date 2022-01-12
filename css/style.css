@@ -1,0 +1,116 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.container{
+	width:1140px ;
+	margin:0px auto;
+}
+.main-form{
+	width:500px ;
+	margin: 50px auto;
+	padding: 50px;
+	background-color: #eeeeee;
+
+}
+.avter{
+	width: 100%;
+	text-align: center;
+}
+.avter img{
+	width: 150px;
+	height: 150px;
+	border-radius: 100%;
+	border: 2px solid black;
+}
+.main-form h2{
+	font-family: serif;
+	font-size: 52px ;
+	font-weight: 700;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 62px;
+	margin: 30px;
+}
+.form-group{
+	width: 100;
+	margin: 0px 0px 15px;
+}
+.form-group label{
+	display: block;
+	font-size: 16px;
+	font-weight: 700;
+	text-transform: uppercase;
+	line-height: 26px;
+	margin: 0px 0px 5px;
+
+
+}
+.form-control{
+	width: 95%;
+	padding: 10px;
+	background: transparent;
+	color: black;
+	font-size: 14px;
+	font-weight: 500;
+	border: 2px solid black;
+	border-radius: 0px;
+
+
+}
+.btn-info{
+	padding: 15px 45px;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 3px;
+	border: 2px solid black;
+	color: #fff;
+	background: black;
+	transition: 1s;
+
+
+}
+.btn-info:hover{
+	border: 2px solid black;
+	color: white;
+	background: transparent;
+	cursor: pointer;
+
+
+}
+.social-section{
+	width: 100%;
+	padding:80px 0px;
+}
+.socail-icons{
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+.socail-icons li{
+	list-style: none;
+	display: inline-block;
+
+
+}
+.socail-icons li a{
+	display: block;
+	width: 75px;
+	height: 75px;
+	font-size: 30px;
+	line-height: 75px;
+	border-radius: 100%;
+	margin: 0px 10px;
+	background: black;
+	color: #fff;
+	border: 2px solid black;
+
+}
+.socail-icons li a:hover{
+	background: transparent;
+	color: black;
+	border: 2px solid black;
+
+}
+
